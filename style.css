@@ -1,0 +1,66 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color:#FAE8C6;
+  text-align: center;
+  color:#993955;
+  font-family:'Lucida Handwriting', cursive;
+  
+}
+
+
+/* STYLE TEXT */
+header{
+  color:#993955;
+  border: 2px;
+  border-radius: 20px
+  text-align: center
+  margin-bottom: 5%;
+}
+
+main{
+  margin-top:5%;
+  margin-bottom: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+/* STYLE IMAGES */
+img{
+  max-width: 50%;
+  text-align: center;
+  border: 2px transparent;
+  border-radius:40px;
+  padding:15px;
+  margin
+}
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+}
+li{
+  display: inline;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+a{
+  text-decoration:none;
+}
+a:hover{
+  background-color: #FC738C;
+  padding:10px;
+  border-radius:10px;
+}
+nav{
+    background-color:#FD96A9;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 10%;
+  margin-right: 10%;
+    
+  }
+
+
+
+
+
